@@ -11,7 +11,6 @@ import { FAQs } from './components/FAQs'
 import { Contact } from './components/Contact'
 import { Footer } from './components/Footer'
 
-
 function App() {
 
   return (
